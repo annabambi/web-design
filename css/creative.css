@@ -396,7 +396,7 @@ fieldset[disabled] .btn-primary.active {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: black;
+  background: #222222;
 }
 ::selection {
   color: white;
@@ -413,4 +413,7 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #222222;
+}
+.grid-text {
+  color: #191d28;
 }
