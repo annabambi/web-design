@@ -430,13 +430,13 @@ body {
   background-image: url('../img/header-color.jpg');
 }
 .color-theory p {
-  color: rgba(0, 0, 0, 0.8);
+  color: #5e428d;
 }
 .color-theory hr {
-  border-color: rgba(0, 0, 0, 0.8);
+  border-color: #5e428d;
 }
 .color-theory h2 {
-  color: rgba(0, 0, 0, 0.8);
+  color: #5e428d;
 }
 .color-theory i {
   font-size: 20px;
@@ -449,4 +449,7 @@ body {
 }
 #contact hr {
   border-color: white;
+}
+.color-theory button {
+  color: black;
 }
