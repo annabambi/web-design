@@ -399,7 +399,7 @@ fieldset[disabled] .btn-primary.active {
   background: #222222;
 }
 ::selection {
-  color: white;
+  color: #191d28;
   text-shadow: none;
   background: #222222;
 }
@@ -449,7 +449,4 @@ body {
 }
 #contact hr {
   border-color: white;
-}
-.color-theory button {
-  color: black;
 }
