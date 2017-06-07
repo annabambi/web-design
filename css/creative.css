@@ -473,3 +473,16 @@ body {
 .lines-shapes-and-shadows-header {
   background-image: url('../img/header-line.jpg');
 }
+.typography-header {
+  background-image: url('../img/header-typography.jpg');
+  color: black;
+}
+.typography p {
+  color: #312d2a;
+}
+.typography hr {
+  border-color: #312d2a;
+}
+.typography h2 {
+  color: #312d2a;
+}
