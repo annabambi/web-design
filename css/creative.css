@@ -489,3 +489,12 @@ body {
 .image-header {
   background-image: url('../img/header-image.jpg');
 }
+.image p {
+  color: #20403e;
+}
+.image hr {
+  border-color: #20403e;
+}
+.image h2 {
+  color: #20403e;
+}
